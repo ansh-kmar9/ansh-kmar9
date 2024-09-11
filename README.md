@@ -53,6 +53,16 @@
 
 ###
 
+### 🔥 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/ansh-kmar9/ScholarSuites" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-kmar9&repo=Sweets&theme=radical" alt="ScholarSuites Repo" />
+  </a>
+</div>
+
+
+
 ### GitHub Stats
 
 <div align="center">
