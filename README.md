@@ -89,3 +89,17 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
+
+### ⚡ GitHub Daily Contributions
+
+<!-- Animated Typing SVG for dynamic text -->
+<!--<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&center=true&vCenter=true&width=500&lines=Daily+GitHub+Contributions;Track+My+Progress;Consistent+Coding+Journey" alt="Typing SVG" />
+</div>
+-->
+<!-- Contribution Graph with a visually appealing design -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-kmar9&bg_color=0d1117&color=ffffff&line=F7B801&point=FF5733&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</div>
+
+<!-- Alternative Static Background Graphic -->
